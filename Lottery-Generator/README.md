@@ -1,1 +1,1 @@
-# Lottery-Generator
+Wutang Trivia
